@@ -1,3 +1,6 @@
+//Trabalho final da uc Linguagem de Programação
+//feito por: Renata Moura Barreto
+
 #include <stdio.h>
 #include <string.h>
 #define TAM 100
